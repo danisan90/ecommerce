@@ -1,0 +1,60 @@
+body{
+  margin: 0px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+
+}
+.header{
+ margin-bottom: auto;
+
+}
+.banner{
+  width: 100%;
+  height: 250px;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+
+}
+.menu{
+  background-color: #ffff99;
+  /* height: 100%; */
+  width: 190px;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  line-height: 20pt;
+  text-indent: 10pt;
+  /* padding-top: 10px; */
+
+}
+.catalogue{
+  width: 834px;
+  margin-right: 190px;
+  padding-left: 400px ;
+  float:center;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.pic{
+  padding: 0px;
+  text-align: center;
+  height: 250px;
+}
+div.img{
+  display: inline-block;
+  padding: 20px;
+  font-size: 18px;
+  object-fit: cover;
+  width: 200px;
+  text-align: center;
+  /* overflow: auto; */
+}
+figure{
+  display: table;
+  padding: 25px;
+
+}
+figcaption {
+    padding-left: 4px;
+}
