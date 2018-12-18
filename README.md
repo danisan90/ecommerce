@@ -1,2 +1,2 @@
 # ecommerce
-trabajo1
+Primer boceto de ecommerse, html y css
